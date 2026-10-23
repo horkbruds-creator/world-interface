@@ -56,6 +56,7 @@
 > **Solana:** `7cZToU8Zt8wow6a1zqH2oBXiHYPHGrhDXErJ1UfVwi4A`
 
 ITS REAL
+ITS REAL
 >
 > **NFA:** Do not track or copy what truth_terminal does on-chain, as it may be random. This was an idea that came to me last night, and I thought I'd release it for everyone.
 >
